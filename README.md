@@ -32,19 +32,17 @@ I've been building cool & useful web applications/extensions since more than 15 
 
 ---
 
-# 🚀 Projects
+## Current Web Projects
 
-- 🔗 **SummaryTube** – AI-powered YouTube video summarizer that saves hours of watch time  
-- 🔗 **Super Session Manager** – Chrome extension to manage and restore browser sessions efficiently  
+🌍 **[SummaryTube.com](https://openclaw.ai)** - Summarize any Youtube Video with AI + get advanced video analysis & transcripts. <br/>
+🌍 **[CentPage.com](https://www.centpage.com/)** - The best customizable internet homepage in the world. <br/>
+🌍 **[SessionManager.net](https://www.centpage.com/)** - Save & organize your browser sessions for productivity. <br/>
 
-👉 Explore all projects: https://ritwick.com/#/portfolio
 
----
+## Current Browser Extension Projects ![Browser Extensions](https://img.shields.io/badge/Browser%20Extensions-111111?style=flat-square)
 
-# 🛠️ Tech Stack
+🧩 **[Super Session Manager](https://chromewebstore.google.com/detail/super-session-manager/apkaoclnnejpmhhbgmehcaekkfnomedd)** - Chrome extension to manage and restore browser sessions efficiently <br/> 
+🧩 **[SummaryTube Chrome Extension](https://chromewebstore.google.com/detail/summarytube-youtube-video/niofdfdkibigolggppebcpegalegdjfe)** - Quick Chrome Extension to summarize any video on Youtube directly. <br/>
+🧩 **[CentPage Chrome Extension](https://chromewebstore.google.com/detail/centpage-%E2%80%93-productivity-n/dalaljappljjfpdmkomolgejlfibccee)** - Turn every new chrome tab into a powerful productivity dashboard (internet homepage) <br/>
 
-```txt
-Frontend: React.js, Next.js, TypeScript
-Backend: Node.js, APIs
-AI: LLM integrations, automation tools
-Other: Chrome Extensions, SaaS architecture
+<br/><br/> 👉 Explore all projects: https://ritwick.com/#/portfolio
