@@ -15,7 +15,7 @@
   <a href="https://sessionmanager.net" target="_blank">🧩 SessionManager.net</a>
 </p>
 
-I've been building cool & useful web applications/extensions since more than 15 years now. Over the years I've built multiple **production SaaS products** that are currently being used by thousands of people worldwide. I am passionate about building useful tools & SaaS products people will love using. Currently working in Cognizant as a Senior Associate.
+I've been building cool & useful web applications/extensions since more than 15 years now. Over the years I've built multiple **production SaaS products** that are currently being used by thousands of people worldwide. I am passionate about building useful tools & SaaS products people will love using. 💗 Currently working in Cognizant as a Senior Associate. 🧑‍💻
 
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
@@ -32,17 +32,17 @@ I've been building cool & useful web applications/extensions since more than 15 
 
 ---
 
-## Current Web Projects
+## Current Web Projects 👨‍💻
 
 🌍 **[CentPage.com](https://www.centpage.com/)** - The best customizable internet homepage in the world + new tab productivity dashboard. <br/>
 🌍 **[SummaryTube.com](https://openclaw.ai)** - Summarize any Youtube Video with AI + get advanced video analysis & transcripts. <br/>
-🌍 **[SessionManager.net](https://www.centpage.com/)** - Save & organize your browser sessions for productivity. <br/>
+🌍 **[SessionManager.net](https://www.centpage.com/)** - Save & Organize & Restore your browser sessions for productivity. <br/>
 🌍 **[Web3Lens.com](https://web3lens.com/)** - Blockchain & Crypto Search Engine & Web Directory. <br/>
-🌍 **[ritwick.com](https://ritwick.com/)** - Personal Portfolio Site & Blog & Web Tools Collection. <br/>
+🌍 **[ritwick.com](https://ritwick.com/)** - Personal Portfolio Site & Blog and Web Tools Collection. <br/>
 
-## Current Browser Extension Projects
+## Current Browser Extension Projects 👨‍💻
 
-🧩 **[Super Session Manager](https://chromewebstore.google.com/detail/super-session-manager/apkaoclnnejpmhhbgmehcaekkfnomedd)** - Chrome extension to manage and restore browser sessions efficiently. <br/> 
+🧩 **[Super Session Manager](https://chromewebstore.google.com/detail/super-session-manager/apkaoclnnejpmhhbgmehcaekkfnomedd)** - Chrome extension to manage, organize and restore browser sessions efficiently. <br/> 
 🧩 **[SummaryTube Chrome Extension](https://chromewebstore.google.com/detail/summarytube-youtube-video/niofdfdkibigolggppebcpegalegdjfe)** - Quick Chrome Extension to summarize any video on Youtube directly. <br/>
 🧩 **[SummaryTube Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/summarytube-youtube-ai-summary/)** - Quick Firefox Extension to summarize any video on Youtube directly. <br/>
 🧩 **[CentPage Chrome Extension](https://chromewebstore.google.com/detail/centpage-%E2%80%93-productivity-n/dalaljappljjfpdmkomolgejlfibccee)** - Turn every new chrome tab into a powerful productivity dashboard (internet homepage). <br/>
@@ -52,6 +52,6 @@ I've been building cool & useful web applications/extensions since more than 15 
 
 ## Other Miscellaneous Legacy Projects
 
-🧩 **[Flying Hori]([https://chromewebstore.google.com/detail/super-session-manager/apkaoclnnejpmhhbgmehcaekkfnomedd](https://play.google.com/store/apps/details?id=com.ritwick.flyinghori))** - A fun android game to avoid obstacles & win points. <br/> 
+🧩 **[Flying Hori](https://play.google.com/store/apps/details?id=com.ritwick.flyinghori)** - A fun android game to avoid obstacles & win points. <br/> 
 
 <br/><br/> 👉 Explore all my other projects at : https://ritwick.com/#/portfolio
