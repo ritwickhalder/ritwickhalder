@@ -1,24 +1,21 @@
-<h1 align="center">🚀 Ritwick</h1>
+<h1 align="left">Hi, I'm Ritwick Halder 👋
+<img align="right" src="https://komarev.com/ghpvc/?username=ritwick&label=Profile%20views&color=0e75b6&style=flat" />
+</h1> 
+ 
 
-<p align="center">
-  <b>Senior Frontend Engineer • AI Builder • SaaS Creator</b>
+<p align="left">
+  <b>Senior Web Developer &emsp;• Computer Science Engineer &emsp;• AI / SaaS Creator &emsp;• Blockchain & Crypto Enthusiast</b>
 </p>
 
-<p align="center">
-  <a href="https://ritwick.com">🌐 Portfolio</a> •
-  <a href="https://summarytube.com">🤖 SummaryTube</a> •
-  <a href="https://chromewebstore.google.com/">🧩 Extensions</a>
+<p align="left">
+  📍 Kolkata, India &emsp;
+  <a href="https://ritwick.com">🌐 ritwick.com</a> &emsp;
+  <a href="https://summarytube.com/">🤖 SummaryTube.com</a> &emsp;
+  <a href="https://www.centpage.com/">🏠 CentPage.com</a> &emsp;
+  <a href="https://sessionmanager.net">🧩 SessionManager.net</a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+Products;10%2B+Years+Frontend+Experience;SaaS+&+Chrome+Extensions;Scaling+Ideas+to+Products&center=true&width=600&height=45">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ritwick&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
