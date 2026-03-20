@@ -4,7 +4,7 @@
  
 
 <p align="left">
-  <b>Senior Web Developer &emsp;• Computer Science Engineer &emsp;• SaaS Creator &emsp;• Blockchain & Crypto & AI Enthusiast</b>
+  <b>Computer Science Engineer &emsp;• Senior Web Developer &emsp;• SaaS Creator &emsp;• Blockchain & Crypto & AI Enthusiast</b>
 </p>
 
 <p align="left">
@@ -15,7 +15,7 @@
   <a href="https://sessionmanager.net" target="_blank">🧩 SessionManager.net</a>
 </p>
 
-I've been building cool & useful web applications/extensions since more than 15 years now. Over the years I've built multiple **production SaaS products** that are currently being used by thousands of people worldwide. I am passionate about building useful tools & products people will love using and also scaling & monetization aspects of it.
+I've been building cool & useful web applications/extensions since more than 15 years now. Over the years I've built multiple **production SaaS products** that are currently being used by thousands of people worldwide. I am passionate about building useful tools & SaaS products people will love using. Currently working in Cognizant as a Senior Associate.
 
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
@@ -44,5 +44,7 @@ I've been building cool & useful web applications/extensions since more than 15 
 🧩 **[Super Session Manager](https://chromewebstore.google.com/detail/super-session-manager/apkaoclnnejpmhhbgmehcaekkfnomedd)** - Chrome extension to manage and restore browser sessions efficiently <br/> 
 🧩 **[SummaryTube Chrome Extension](https://chromewebstore.google.com/detail/summarytube-youtube-video/niofdfdkibigolggppebcpegalegdjfe)** - Quick Chrome Extension to summarize any video on Youtube directly. <br/>
 🧩 **[CentPage Chrome Extension](https://chromewebstore.google.com/detail/centpage-%E2%80%93-productivity-n/dalaljappljjfpdmkomolgejlfibccee)** - Turn every new chrome tab into a powerful productivity dashboard (internet homepage) <br/>
+🧩 **[Web Archive Viewer](https://chromewebstore.google.com/detail/web-archive-viewer/fgfklknfijhflahngajfoagmoilakebp)** - Chrome extension to view the archived version of any website on the Wayback Machine.<br/> 
+🧩 **[Edit Webpage](https://chromewebstore.google.com/detail/edit-webpage/dcemlmncjcljhjfbijimcamijgfdgieb))** - Chrome Extension to Edit content of any webpage with one click. <br/> 
 
-<br/><br/> 👉 Explore all projects: https://ritwick.com/#/portfolio
+<br/><br/> 👉 Explore all my other projects at : https://ritwick.com/#/portfolio
