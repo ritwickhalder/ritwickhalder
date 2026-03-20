@@ -9,21 +9,14 @@
 
 <p align="left">
   📍 Kolkata, India &emsp;
-  <a href="https://ritwick.com">🌐 ritwick.com</a> &emsp;
-  <a href="https://summarytube.com/">🤖 SummaryTube.com</a> &emsp;
-  <a href="https://www.centpage.com/">🏠 CentPage.com</a> &emsp;
-  <a href="https://sessionmanager.net">🧩 SessionManager.net</a>
+  <a href="https://ritwick.com" target="_blank">🌐 ritwick.com</a> &emsp;
+  <a href="https://summarytube.com/" target="_blank">🤖 SummaryTube.com</a> &emsp;
+  <a href="https://www.centpage.com/" target="_blank">🏠 CentPage.com</a> &emsp;
+  <a href="https://sessionmanager.net" target="_blank">🧩 SessionManager.net</a>
 </p>
 
----
 
----
-
-## 👨‍💻 Who I Am
-
-Hi, I'm **Ritwick** from 🇮🇳 Kolkata.
-
-I build **high-impact web products**, Chrome extensions, and AI-powered tools used in real workflows.
+Hi. I've been building cool & useful web applications/extensions since more than 15 years now. Over the years I've built multiple **production SaaS products** that are currently being used by thousands of people worldwide.
 
 - 💼 10+ years in **Frontend Engineering (React, Next.js)**
 - 🚀 Built multiple **production SaaS products**
