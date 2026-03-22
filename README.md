@@ -43,8 +43,8 @@ I've been building cool & useful web applications/extensions since more than 15 
 ## Current Browser Extension Projects 👨‍💻
 
 🧩 **[Super Session Manager](https://chromewebstore.google.com/detail/super-session-manager/apkaoclnnejpmhhbgmehcaekkfnomedd)** - Chrome extension to manage, organize and restore browser sessions efficiently. <br/> 
-🧩 **[SummaryTube Chrome Extension](https://chromewebstore.google.com/detail/summarytube-youtube-video/niofdfdkibigolggppebcpegalegdjfe)** - Quick Chrome Extension to summarize any video on Youtube directly. <br/>
-🧩 **[SummaryTube Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/summarytube-youtube-ai-summary/)** - Quick Firefox Extension to summarize any video on Youtube directly. <br/>
+🧩 **[SummaryTube Chrome Extension](https://chromewebstore.google.com/detail/summarytube-youtube-video/niofdfdkibigolggppebcpegalegdjfe)** - Chrome Extension to summarize any video on Youtube directly. <br/>
+🧩 **[SummaryTube Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/summarytube-youtube-ai-summary/)** - Firefox Extension to summarize any video on Youtube directly. <br/>
 🧩 **[CentPage Chrome Extension](https://chromewebstore.google.com/detail/centpage-%E2%80%93-productivity-n/dalaljappljjfpdmkomolgejlfibccee)** - Turn every new chrome tab into a powerful productivity dashboard (internet homepage). <br/>
 🧩 **[CentPage Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/centpage-productivity-new-tab/)** - Firefox extension to turn every new chrome tab into a powerful productivity dashboard. <br/>
 🧩 **[Web Archive Viewer](https://chromewebstore.google.com/detail/web-archive-viewer/fgfklknfijhflahngajfoagmoilakebp)** - Chrome extension to view the archived version of any website on the Wayback Machine. <br/> 
@@ -54,4 +54,4 @@ I've been building cool & useful web applications/extensions since more than 15 
 
 🧩 **[Flying Hori](https://play.google.com/store/apps/details?id=com.ritwick.flyinghori)** - A fun android game to avoid obstacles & win points. <br/> 
 
-<br/><br/> 👉 Explore all my other projects at : https://ritwick.com/#/portfolio
+<br/> 👉 Explore all my other projects at : https://ritwick.com/#/portfolio
