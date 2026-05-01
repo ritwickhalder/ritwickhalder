@@ -47,7 +47,7 @@ I've been building cool & useful web applications/extensions since more than 15 
 🧩 **[SummaryTube Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/summarytube-youtube-ai-summary/)** - Firefox Extension to summarize any video on Youtube directly. <br/>
 🧩 **[CentPage Chrome Extension](https://chromewebstore.google.com/detail/centpage-%E2%80%93-productivity-n/dalaljappljjfpdmkomolgejlfibccee)** - Turn every new chrome tab into a powerful productivity dashboard (internet homepage). <br/>
 🧩 **[CentPage Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/centpage-productivity-new-tab/)** - Firefox extension to turn every new chrome tab into a powerful productivity dashboard. <br/>
-🧩 **[Super Session Manager Chrome Extension](https://chromewebstore.google.com/detail/super-session-manager/apkaoclnnejpmhhbgmehcaekkfnomedd)** - Chrome extension to manage your browser tab sessions and bookmark manager. <br/>
+🧩 **[Super Session Manager Chrome Extension](https://chromewebstore.google.com/detail/super-session-manager/apkaoclnnejpmhhbgmehcaekkfnomedd)** - Manage browser tab sessions & bookmark manager for productivity.<br/>
 🧩 **[Web Archive Viewer](https://chromewebstore.google.com/detail/web-archive-viewer/fgfklknfijhflahngajfoagmoilakebp)** - Chrome extension to view the archived version of any website on the Wayback Machine. <br/> 
 🧩 **[Edit Webpage](https://chromewebstore.google.com/detail/edit-webpage/dcemlmncjcljhjfbijimcamijgfdgieb))** - Chrome Extension to Edit content of any webpage with one click. <br/> 
 
