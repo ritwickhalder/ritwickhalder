@@ -35,8 +35,8 @@ I've been building cool & useful web applications/extensions since more than 15 
 ## Current Web Projects 👨‍💻
 
 🌍 **[CentPage.com](https://www.centpage.com/)** - The best customizable internet homepage in the world + new tab productivity dashboard. <br/>
-🌍 **[SummaryTube.com](https://openclaw.ai)** - Summarize any Youtube Video with AI + get advanced video analysis & transcripts. <br/>
-🌍 **[SessionManager.net](https://www.centpage.com/)** - Save & Organize & Restore your browser sessions for productivity. <br/>
+🌍 **[SummaryTube.com](https://summarytube.com)** - Summarize any Youtube Video with AI + get advanced video analysis & transcripts. <br/>
+🌍 **[SessionManager.net](https://sessionmanager.net/)** - Save & Organize & Restore your browser sessions for productivity. <br/>
 🌍 **[Web3Lens.com](https://web3lens.com/)** - Blockchain & Crypto Search Engine & Web Directory. <br/>
 🌍 **[ritwick.com](https://ritwick.com/)** - Personal Portfolio Site & Blog and Web Tools Collection. <br/>
 
