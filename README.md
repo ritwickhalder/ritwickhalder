@@ -34,23 +34,27 @@ I've been building cool & useful web applications/extensions since more than 15 
 
 ## Current Web Projects 👨‍💻
 
-🌍 **[CentPage.com](https://www.centpage.com/)** - The best customizable internet homepage in the world + new tab productivity dashboard. <br/>
-🌍 **[SummaryTube.com](https://summarytube.com)** - Summarize any Youtube Video with AI + get advanced video analysis & transcripts. <br/>
-🌍 **[SessionManager.net](https://sessionmanager.net/)** - Save & Organize & Restore your browser sessions for productivity. <br/>
+🌍 **[CentPage.com](https://www.centpage.com/)** ![users](https://img.shields.io/badge/7000+%20users-00838F) : The best customizable internet homepage in the world + new tab productivity dashboard. <br/>
+🌍 **[SummaryTube.com](https://summarytube.com)** ![users](https://img.shields.io/badge/6000+%20users-00838F) : Summarize any Youtube Video with AI + get advanced video analysis & transcripts. <br/>
+🌍 **[SessionManager.net](https://sessionmanager.net/)** ![users](https://img.shields.io/badge/3000+%20users-00838F) : Save & Organize & Restore your browser sessions for productivity. <br/>
 🌍 **[Web3Lens.com](https://web3lens.com/)** - Blockchain & Crypto Search Engine & Web Directory. <br/>
 🌍 **[ritwick.com](https://ritwick.com/)** - Personal Portfolio Site & Blog and Web Tools Collection. <br/>
 
 ## Current Browser Extension Projects 👨‍💻
 
-🧩 **[Super Session Manager - Google Chrome Extension](https://chromewebstore.google.com/detail/super-session-manager-tab/apkaoclnnejpmhhbgmehcaekkfnomedd)** - Save, organize and restore browser tab sessions, tab groups & bookmarks. <br/> 
-🧩 **[Super Session Manager - Mozilla Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/super-session-manager/)** - Save, organize and restore browser tab sessions, tab groups & bookmarks.<br/>
-🧩 **[Super Session Manager - Microsoft Edge Extension](https://microsoftedge.microsoft.com/addons/detail/super-session-manager-t/meimhfgbddjmpdhjdmcmgopajccllpem)** - Save, organize and restore browser tab sessions, tab groups & bookmarks.<br/>
+🧩 **Super Session Manager** - Save, organize and restore browser tab sessions, tab groups & bookmarks. <br/> 
+&emsp; --> **[Session Manager : Google Chrome Extension](https://chromewebstore.google.com/detail/super-session-manager-tab/apkaoclnnejpmhhbgmehcaekkfnomedd)** : ![users](https://img.shields.io/badge/3000+%20users-00838F) <br/> 
+&emsp; --> **[Session Manager - Mozilla Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/super-session-manager/)** <br/>
+&emsp; --> **[Session Manager - Microsoft Edge Extension](https://microsoftedge.microsoft.com/addons/detail/super-session-manager-t/meimhfgbddjmpdhjdmcmgopajccllpem)**<br/>
 
-🧩 **[SummaryTube Chrome Extension](https://chromewebstore.google.com/detail/summarytube-youtube-video/niofdfdkibigolggppebcpegalegdjfe)** - Chrome Extension to summarize any video on Youtube directly. <br/>
-🧩 **[SummaryTube Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/summarytube-youtube-ai-summary/)** - Firefox Extension to summarize any video on Youtube directly. <br/>
+🧩 **SummaryTube.com** - Summarize Youtube videos with AI on Youtube directly with extension. <br/>
+&emsp; --> **[SummaryTube Chrome Extension](https://chromewebstore.google.com/detail/summarytube-youtube-video/niofdfdkibigolggppebcpegalegdjfe)**  <br/>
+&emsp; --> **[SummaryTube Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/summarytube-youtube-ai-summary/)** <br/>
 
-🧩 **[CentPage Chrome Extension](https://chromewebstore.google.com/detail/centpage-%E2%80%93-productivity-n/dalaljappljjfpdmkomolgejlfibccee)** - Turn every new chrome tab into a powerful productivity dashboard (internet homepage). <br/>
-🧩 **[CentPage Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/centpage-productivity-new-tab/)** - Firefox extension to turn every new chrome tab into a powerful productivity dashboard. <br/>
+🧩 **Centpage.com** - Turn every new chrome tab into a powerful productivity dashboard (internet homepage). <br/>
+&emsp; --> **[CentPage Chrome Extension](https://chromewebstore.google.com/detail/centpage-%E2%80%93-productivity-n/dalaljappljjfpdmkomolgejlfibccee)** <br/>
+&emsp; --> **[CentPage Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/centpage-productivity-new-tab/)** <br/>
+
 🧩 **[Web Archive Viewer](https://chromewebstore.google.com/detail/web-archive-viewer/fgfklknfijhflahngajfoagmoilakebp)** - Chrome extension to view the archived version of any website on the Wayback Machine. <br/> 
 🧩 **[Edit Webpage](https://chromewebstore.google.com/detail/edit-webpage/dcemlmncjcljhjfbijimcamijgfdgieb)** - Chrome Extension to Edit content of any webpage with one click. <br/> 
 
@@ -58,4 +62,4 @@ I've been building cool & useful web applications/extensions since more than 15 
 
 🧩 **[Flying Hori](https://play.google.com/store/apps/details?id=com.ritwick.flyinghori)** - A fun android game to avoid obstacles & win points. <br/> 
 
-<br/> 👉 Explore all my other projects at : https://ritwick.com/#/portfolio
+ 👉 Explore all my other projects at : https://ritwick.com/#/portfolio
