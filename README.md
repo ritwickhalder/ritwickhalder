@@ -34,9 +34,9 @@ I've been building cool & useful web applications/extensions since more than 15 
 
 ## Current Web Projects 👨‍💻
 
-🌍 **[CentPage.com](https://www.centpage.com/)** ![users](https://img.shields.io/badge/7000+%20users-00838F) : The best customizable internet homepage in the world + new tab productivity dashboard. <br/>
-🌍 **[SummaryTube.com](https://summarytube.com)** ![users](https://img.shields.io/badge/6000+%20users-00838F) : Summarize any Youtube Video with AI + get advanced video analysis & transcripts. <br/>
-🌍 **[SessionManager.net](https://sessionmanager.net/)** ![users](https://img.shields.io/badge/3000+%20users-00838F) : Save & Organize & Restore your browser sessions for productivity. <br/>
+🌍 **[CentPage.com](https://www.centpage.com/)** : The best customizable internet homepage in the world + new tab productivity dashboard.  ![users](https://img.shields.io/badge/7000+%20users-00838F)  <br/>
+🌍 **[SummaryTube.com](https://summarytube.com)** : Summarize any Youtube Video with AI + get advanced video analysis & transcripts. ![users](https://img.shields.io/badge/6000+%20users-00838F) <br/>
+🌍 **[SessionManager.net](https://sessionmanager.net/)** : Save & Organize & Restore your browser sessions for productivity. ![users](https://img.shields.io/badge/3000+%20users-00838F)  <br/>
 🌍 **[Web3Lens.com](https://web3lens.com/)** - Blockchain & Crypto Search Engine & Web Directory. <br/>
 🌍 **[ritwick.com](https://ritwick.com/)** - Personal Portfolio Site & Blog and Web Tools Collection. <br/>
 
@@ -48,7 +48,7 @@ I've been building cool & useful web applications/extensions since more than 15 
 &emsp; --> **[Session Manager - Microsoft Edge Extension](https://microsoftedge.microsoft.com/addons/detail/super-session-manager-t/meimhfgbddjmpdhjdmcmgopajccllpem)**<br/>
 
 🧩 **SummaryTube.com** - Summarize Youtube videos with AI on Youtube directly with extension. <br/>
-&emsp; --> **[SummaryTube Chrome Extension](https://chromewebstore.google.com/detail/summarytube-youtube-video/niofdfdkibigolggppebcpegalegdjfe)**  <br/>
+&emsp; --> **[SummaryTube Chrome Extension](https://chromewebstore.google.com/detail/summarytube-youtube-video/niofdfdkibigolggppebcpegalegdjfe)** ![users](https://img.shields.io/badge/100+%20users-00838F)  <br/>
 &emsp; --> **[SummaryTube Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/summarytube-youtube-ai-summary/)** <br/>
 
 🧩 **Centpage.com** - Turn every new chrome tab into a powerful productivity dashboard (internet homepage). <br/>
