@@ -42,16 +42,16 @@ I've been building cool & useful web applications/extensions since more than 15 
 
 ## Current Browser Extension Projects 👨‍💻
 
-🧩 **Super Session Manager** - Save, organize and restore browser tab sessions, tab groups & bookmarks. <br/> 
-&emsp; --> **[Session Manager : Google Chrome Extension](https://chromewebstore.google.com/detail/super-session-manager-tab/apkaoclnnejpmhhbgmehcaekkfnomedd)** : ![users](https://img.shields.io/badge/3000+%20users-00838F) <br/> 
+🧩 **Super Session Manager** - Save, organize and restore browser tab sessions, tab groups & bookmarks. ![users](https://img.shields.io/badge/3000+%20users-00838F)  <br/> 
+&emsp; --> **[Session Manager : Google Chrome Extension](https://chromewebstore.google.com/detail/super-session-manager-tab/apkaoclnnejpmhhbgmehcaekkfnomedd)** <br/> 
 &emsp; --> **[Session Manager - Mozilla Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/super-session-manager/)** <br/>
 &emsp; --> **[Session Manager - Microsoft Edge Extension](https://microsoftedge.microsoft.com/addons/detail/super-session-manager-t/meimhfgbddjmpdhjdmcmgopajccllpem)**<br/>
 
-🧩 **SummaryTube.com** - Summarize Youtube videos with AI on Youtube directly with extension. <br/>
-&emsp; --> **[SummaryTube Chrome Extension](https://chromewebstore.google.com/detail/summarytube-youtube-video/niofdfdkibigolggppebcpegalegdjfe)** ![users](https://img.shields.io/badge/100+%20users-00838F)  <br/>
+🧩 **SummaryTube.com** - Summarize Youtube videos with AI on Youtube directly with extension. ![users](https://img.shields.io/badge/6000+%20users-00838F)  <br/>
+&emsp; --> **[SummaryTube Chrome Extension](https://chromewebstore.google.com/detail/summarytube-youtube-video/niofdfdkibigolggppebcpegalegdjfe)**  <br/>
 &emsp; --> **[SummaryTube Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/summarytube-youtube-ai-summary/)** <br/>
 
-🧩 **Centpage.com** - Turn every new chrome tab into a powerful productivity dashboard (internet homepage). <br/>
+🧩 **Centpage.com** - Turn every new chrome tab into a powerful productivity dashboard (internet homepage). ![users](https://img.shields.io/badge/7000+%20users-00838F)  <br/>
 &emsp; --> **[CentPage Chrome Extension](https://chromewebstore.google.com/detail/centpage-%E2%80%93-productivity-n/dalaljappljjfpdmkomolgejlfibccee)** <br/>
 &emsp; --> **[CentPage Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/centpage-productivity-new-tab/)** <br/>
 
