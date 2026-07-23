@@ -11,7 +11,7 @@
   <a href="https://ritwick.com" target="_blank">🌐 ritwick.com</a> &emsp;
   <a href="https://summarytube.com/" target="_blank">🤖 SummaryTube.com</a> &emsp;
   <a href="https://www.centpage.com/" target="_blank">🏠 CentPage.com</a> &emsp;
-  <a href="https://sessionmanager.net" target="_blank">🧩 SessionManager.net</a>
+  <a href="https://sessionmanager.net" target="_blank">🧩 SessionManager.net</a> &emsp;
   <a href="https://webdevelopertools.dev" target="_blank">💻 WebDeveloperTools.dev</a>
 </p>
 
