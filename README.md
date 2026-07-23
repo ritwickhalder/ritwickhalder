@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Ritwick Halder 👋
+<h1 align="left">Hi 👋  I'm Ritwick Halder. I'm from Kolkata, India 📍 &emsp;
 <img align="right" src="https://komarev.com/ghpvc/?username=ritwick&label=Profile%20views&color=0e75b6&style=flat" />
 </h1> 
  
@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  📍 Kolkata, India &emsp;
   <a href="https://ritwick.com" target="_blank">🌐 ritwick.com</a> &emsp;
   <a href="https://summarytube.com/" target="_blank">🤖 SummaryTube.com</a> &emsp;
   <a href="https://www.centpage.com/" target="_blank">🏠 CentPage.com</a> &emsp;
   <a href="https://sessionmanager.net" target="_blank">🧩 SessionManager.net</a>
+  <a href="https://webdevelopertools.dev" target="_blank">💻 WebDeveloperTools.dev</a>
 </p>
 
 I've been building cool & useful web applications/extensions since more than 15 years now. Over the years I've built multiple **production SaaS products** that are currently being used by thousands of people worldwide. I am passionate about building useful tools & SaaS products people will love using. 💗 Currently working in Cognizant as a Senior Associate. 🧑‍💻
@@ -37,6 +37,7 @@ I've been building cool & useful web applications/extensions since more than 15 
 🌍 **[CentPage.com](https://www.centpage.com/)** : The best customizable internet homepage in the world + new tab productivity dashboard.  ![users](https://img.shields.io/badge/7000+%20users-00838F)  <br/>
 🌍 **[SummaryTube.com](https://summarytube.com)** : Summarize any Youtube Video with AI + get advanced video analysis & transcripts. ![users](https://img.shields.io/badge/6000+%20users-00838F) <br/>
 🌍 **[SessionManager.net](https://sessionmanager.net/)** : Save & Organize & Restore your browser sessions for productivity. ![users](https://img.shields.io/badge/3000+%20users-00838F)  <br/>
+🌍 **[WebDeveloperTools.dev](https://webdevelopertools.dev)** - 500+ Web Developer Tools and Utilities in one chrome extension <br/>
 🌍 **[Web3Lens.com](https://web3lens.com/)** - Blockchain & Crypto Search Engine & Web Directory. <br/>
 🌍 **[ritwick.com](https://ritwick.com/)** - Personal Portfolio Site & Blog and Web Tools Collection. <br/>
 
@@ -46,6 +47,8 @@ I've been building cool & useful web applications/extensions since more than 15 
 &emsp; --> **[Session Manager : Google Chrome Extension](https://chromewebstore.google.com/detail/super-session-manager-tab/apkaoclnnejpmhhbgmehcaekkfnomedd)** <br/> 
 &emsp; --> **[Session Manager - Mozilla Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/super-session-manager/)** <br/>
 &emsp; --> **[Session Manager - Microsoft Edge Extension](https://microsoftedge.microsoft.com/addons/detail/super-session-manager-t/meimhfgbddjmpdhjdmcmgopajccllpem)**<br/>
+
+🧩 **[WebDeveloperTools.dev](https://chromewebstore.google.com/detail/web-developer-tools/aidnmkaegllaelmceolfojhkfkpbpnhh)** - Chrome extension to inspect, outline, edit and audit any page with an unprecedented collection of over 500+ web development utilities <br/> 
 
 🧩 **SummaryTube.com** - Summarize Youtube videos with AI on Youtube directly with extension. ![users](https://img.shields.io/badge/6000+%20users-00838F)  <br/>
 &emsp; --> **[SummaryTube Chrome Extension](https://chromewebstore.google.com/detail/summarytube-youtube-video/niofdfdkibigolggppebcpegalegdjfe)**  <br/>
