@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋  I'm Ritwick Halder. I'm from Kolkata, India 📍 &emsp;
+<h1 align="left">Hi 👋 I'm Ritwick Halder, from Kolkata, India 📍 &emsp;
 <img align="right" src="https://komarev.com/ghpvc/?username=ritwick&label=Profile%20views&color=0e75b6&style=flat" />
 </h1> 
  
@@ -48,7 +48,7 @@ I've been building cool & useful web applications/extensions since more than 15 
 &emsp; --> **[Session Manager - Mozilla Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/super-session-manager/)** <br/>
 &emsp; --> **[Session Manager - Microsoft Edge Extension](https://microsoftedge.microsoft.com/addons/detail/super-session-manager-t/meimhfgbddjmpdhjdmcmgopajccllpem)**<br/>
 
-🧩 **[WebDeveloperTools.dev](https://chromewebstore.google.com/detail/web-developer-tools/aidnmkaegllaelmceolfojhkfkpbpnhh)** - Chrome extension to inspect, outline, edit and audit any page with an unprecedented collection of over 500+ web development utilities <br/> 
+🧩 **[WebDeveloperTools.dev](https://chromewebstore.google.com/detail/web-developer-tools/aidnmkaegllaelmceolfojhkfkpbpnhh)** - Chrome extension to inspect, outline, edit and audit any page with an unprecedented collection of over 500+ web development tools and utilities <br/> 
 
 🧩 **SummaryTube.com** - Summarize Youtube videos with AI on Youtube directly with extension. ![users](https://img.shields.io/badge/6000+%20users-00838F)  <br/>
 &emsp; --> **[SummaryTube Chrome Extension](https://chromewebstore.google.com/detail/summarytube-youtube-video/niofdfdkibigolggppebcpegalegdjfe)**  <br/>
