@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 I'm Ritwick Halder, from Kolkata, India 📍 &emsp;
+<h1 align="left">Hi 👋 I'm Ritwick Halder &emsp;
 <img align="right" src="https://komarev.com/ghpvc/?username=ritwick&label=Profile%20views&color=0e75b6&style=flat" />
 </h1> 
  
