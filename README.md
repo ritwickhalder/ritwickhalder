@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 I'm Ritwick Halder &emsp;
+<h1 align="left">Hi 👋 I'm Ritwick Halder &emsp; <a href="https://ritwick.com" target="_blank">🌐 ritwick.com</a>
 <img align="right" src="https://komarev.com/ghpvc/?username=ritwick&label=Profile%20views&color=0e75b6&style=flat" />
 </h1> 
  
@@ -8,10 +8,10 @@
 </p>
 
 <p align="left">
-  <a href="https://ritwick.com" target="_blank">🌐 ritwick.com</a> &emsp;
-  <a href="https://summarytube.com/" target="_blank">🤖 SummaryTube.com</a> &emsp;
-  <a href="https://www.centpage.com/" target="_blank">🏠 CentPage.com</a> &emsp;
   <a href="https://sessionmanager.net" target="_blank">🧩 SessionManager.net</a> &emsp;
+  <a href="https://summarytube.com/" target="_blank">▶️ SummaryTube.com</a> &emsp;
+  <a href="https://www.centpage.com/" target="_blank">🏠 CentPage.com</a> &emsp;
+  <a href="https://editpage.dev/" target="_blank">✏️ EditPage.dev</a> &emsp;
   <a href="https://webdevelopertools.dev" target="_blank">💻 WebDeveloperTools.dev</a>
 </p>
 
@@ -32,14 +32,18 @@ I've been building cool & useful web applications/extensions since more than 15 
 
 ---
 
+
 ## Current Web Projects 👨‍💻
 
-🌍 **[CentPage.com](https://www.centpage.com/)** : The best customizable internet homepage in the world + new tab productivity dashboard.  ![users](https://img.shields.io/badge/7000+%20users-00838F)  <br/>
-🌍 **[SummaryTube.com](https://summarytube.com)** : Summarize any Youtube Video with AI + get advanced video analysis & transcripts. ![users](https://img.shields.io/badge/6000+%20users-00838F) <br/>
-🌍 **[SessionManager.net](https://sessionmanager.net/)** : Save & Organize & Restore your browser sessions for productivity. ![users](https://img.shields.io/badge/3000+%20users-00838F)  <br/>
-🌍 **[WebDeveloperTools.dev](https://webdevelopertools.dev)** - 500+ Web Developer Tools and Utilities in one chrome extension <br/>
-🌍 **[Web3Lens.com](https://web3lens.com/)** - Blockchain & Crypto Search Engine & Web Directory. <br/>
-🌍 **[ritwick.com](https://ritwick.com/)** - Personal Portfolio Site & Blog and Web Tools Collection. <br/>
+▶️ **[SummaryTube.com](https://summarytube.com/)** : Summarize YouTube videos with AI, generate transcripts, and get advanced video analysis. ![users](https://img.shields.io/badge/6000+%20users-00838F) <br/>
+🧩 **[SessionManager.net](https://sessionmanager.net/)** : Save, organize, restore, and manage browser sessions, tabs, and bookmarks. ![users](https://img.shields.io/badge/3000+%20users-00838F) <br/>
+🌍 **[CentPage.com](https://www.centpage.com/)** : A customizable internet homepage and new-tab productivity dashboard. ![users](https://img.shields.io/badge/7000+%20users-00838F) <br/>
+✏️ **[EditPage.dev](https://editpage.dev/)** : A browser-based tool for editing and customizing web pages. <br/>
+💻 **[WebDeveloperTools.dev](https://webdevelopertools.dev/)** : 500+ web developer tools and utilities in one browser extension. <br/>
+🗄️ **[WebInternetArchive.com](https://webinternetarchive.com/)** : Explore archived web pages and access the history of websites. <br/>
+🔗 **[Web3Lens.com](https://web3lens.com/)** : A blockchain and crypto search engine and web directory. <br/>
+👨‍💻 **[ritwick.com](https://ritwick.com/)** : My personal portfolio, blog, and collection of web tools. <br/>
+
 
 ## Current Browser Extension Projects 👨‍💻
 
