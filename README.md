@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 I'm Ritwick Halder &emsp; <a href="https://ritwick.com" target="_blank">🌐 ritwick.com</a>
+<h1 align="left">Hi 👋 I'm Ritwick Halder &emsp;
 <img align="right" src="https://komarev.com/ghpvc/?username=ritwick&label=Profile%20views&color=0e75b6&style=flat" />
 </h1> 
  
@@ -15,7 +15,7 @@
   <a href="https://webdevelopertools.dev" target="_blank">💻 WebDeveloperTools.dev</a>
 </p>
 
-I've been building cool & useful web applications/extensions since more than 15 years now. Over the years I've built multiple **production SaaS products** that are currently being used by thousands of people worldwide. I am passionate about building useful tools & SaaS products people will love using. 💗 Currently working in Cognizant as a Senior Associate. 🧑‍💻
+I've been building cool & useful web applications/extensions since more than 15 years now. Over the years I've built multiple **production SaaS products** that are currently being used by thousands of people worldwide. I am passionate about building useful tools & SaaS products people will love using. 💗 Currently working in Cognizant as a Senior Associate. 🧑‍💻 My personal portfolio website is <a href="https://ritwick.com" target="_blank">🌐 ritwick.com</a>
 
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
