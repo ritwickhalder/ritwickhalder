@@ -38,9 +38,9 @@ I've been building cool & useful web applications/extensions since more than 15 
 ▶️ **[SummaryTube.com](https://summarytube.com/)** : Summarize YouTube videos with AI, generate transcripts, and get advanced video analysis. ![users](https://img.shields.io/badge/6000+%20users-00838F) <br/>
 🧩 **[SessionManager.net](https://sessionmanager.net/)** : Save, organize, restore, and manage browser sessions, tabs, and bookmarks. ![users](https://img.shields.io/badge/3000+%20users-00838F) <br/>
 🌍 **[CentPage.com](https://www.centpage.com/)** : A customizable internet homepage and new-tab productivity dashboard. ![users](https://img.shields.io/badge/7000+%20users-00838F) <br/>
-✏️ **[EditPage.dev](https://editpage.dev/)** : A browser-based tool for editing and customizing web pages. <br/>
+✏️ **[EditPage.dev](https://editpage.dev/)** : A browser-based tool for editing and customizing web pages. ![users](https://img.shields.io/badge/3000+%20users-00838F)  <br/>
+🗄️ **[WebInternetArchive.com](https://webinternetarchive.com/)** : Explore archived web pages and access the history of websites.  ![users](https://img.shields.io/badge/4000+%20users-00838F)  <br/>
 💻 **[WebDeveloperTools.dev](https://webdevelopertools.dev/)** : 500+ web developer tools and utilities in one browser extension. <br/>
-🗄️ **[WebInternetArchive.com](https://webinternetarchive.com/)** : Explore archived web pages and access the history of websites. <br/>
 🔗 **[Web3Lens.com](https://web3lens.com/)** : A blockchain and crypto search engine and web directory. <br/>
 👨‍💻 **[ritwick.com](https://ritwick.com/)** : My personal portfolio, blog, and collection of web tools. <br/>
 
@@ -52,11 +52,6 @@ I've been building cool & useful web applications/extensions since more than 15 
 &emsp; --> **[Session Manager - Mozilla Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/super-session-manager/)** <br/>
 &emsp; --> **[Session Manager - Microsoft Edge Extension](https://microsoftedge.microsoft.com/addons/detail/super-session-manager-t/meimhfgbddjmpdhjdmcmgopajccllpem)**<br/>
 
-🧩 **Web Developer Tools** - 500+ Web Development Tools and utilities to inspect, outline, edit and audit any page.<br/> 
-&emsp; --> **[WDT : Google Chrome Extension](https://chromewebstore.google.com/detail/web-developer-tools/aidnmkaegllaelmceolfojhkfkpbpnhh)** <br/> 
-&emsp; --> **[WDT - Mozilla Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/web-developer-tools-dev/)** <br/>
-&emsp; --> **[WDT - Microsoft Edge Extension](https://microsoftedge.microsoft.com/addons/detail/web-developer-tools/hpjpbihjojicankcjjngcnobfemleplj)**<br/>
-
 🧩 **SummaryTube.com** - Summarize Youtube videos with AI on Youtube directly with extension. ![users](https://img.shields.io/badge/6000+%20users-00838F)  <br/>
 &emsp; --> **[SummaryTube Chrome Extension](https://chromewebstore.google.com/detail/summarytube-youtube-video/niofdfdkibigolggppebcpegalegdjfe)**  <br/>
 &emsp; --> **[SummaryTube Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/summarytube-youtube-ai-summary/)** <br/>
@@ -65,11 +60,21 @@ I've been building cool & useful web applications/extensions since more than 15 
 &emsp; --> **[CentPage Chrome Extension](https://chromewebstore.google.com/detail/centpage-%E2%80%93-productivity-n/dalaljappljjfpdmkomolgejlfibccee)** <br/>
 &emsp; --> **[CentPage Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/centpage-productivity-new-tab/)** <br/>
 
-🧩 **[Web Archive Viewer](https://chromewebstore.google.com/detail/web-archive-viewer/fgfklknfijhflahngajfoagmoilakebp)** - Chrome extension to view the archived version of any website on the Wayback Machine. <br/> 
-🧩 **[Edit Webpage](https://chromewebstore.google.com/detail/edit-webpage/dcemlmncjcljhjfbijimcamijgfdgieb)** - Chrome Extension to Edit content of any webpage with one click. <br/> 
+🧩 **Web Developer Tools** - 500+ Web Development Tools and utilities to inspect, outline, edit and audit any page.<br/> 
+&emsp; --> **[WDT : Google Chrome Extension](https://chromewebstore.google.com/detail/web-developer-tools/aidnmkaegllaelmceolfojhkfkpbpnhh)** <br/> 
+&emsp; --> **[WDT - Mozilla Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/web-developer-tools-dev/)** <br/>
+&emsp; --> **[WDT - Microsoft Edge Extension](https://microsoftedge.microsoft.com/addons/detail/web-developer-tools/hpjpbihjojicankcjjngcnobfemleplj)**<br/>
+
+🧩 **Web Archive Viewer** - View the archived version and history of any website. <br/> 
+&emsp; --> **[WAV : Google Chrome Extension](https://chromewebstore.google.com/detail/web-archive-viewer-%E2%80%93-inte/fgfklknfijhflahngajfoagmoilakebp)** <br/> 
+&emsp; --> **[WAV - Mozilla Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/web-internet-archive-viewer/)** <br/>
+&emsp; --> **[WAV - Microsoft Edge Extension](https://microsoftedge.microsoft.com/addons/detail/web-archive-viewer-%E2%80%93-wayb/pifalngiecdabdhdjgdibkgehkmmaemp)**<br/>
+
+🧩 **Edit Webpage** - Chrome Extension to Edit content of any website with 50+ utilites. <br/> 
+&emsp; --> **[EditPage : Google Chrome Extension](https://chromewebstore.google.com/detail/edit-webpage/dcemlmncjcljhjfbijimcamijgfdgieb)** <br/>
 
 ## Other Miscellaneous Legacy Projects
 
 🧩 **[Flying Hori](https://play.google.com/store/apps/details?id=com.ritwick.flyinghori)** - A fun android game to avoid obstacles & win points. <br/> 
 
- 👉 Explore all my other projects at : https://ritwick.com/#/portfolio
+ 👉 Explore all my other projects at : https://ritwick.com/#work
