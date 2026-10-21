@@ -15,9 +15,7 @@
   <a href="https://webdevelopertools.dev" target="_blank">💻 WebDeveloperTools.dev</a>
 </p>
 
-I've been building cool & useful web applications/extensions since more than 15 years now. Over the years I've built multiple **production SaaS products** that are currently being used by thousands of people worldwide. I am passionate about building useful tools & SaaS products people will love using. 💗 
-
-Currently I'm working in Cognizant as a Senior Associate. 🧑‍💻 My personal portfolio website is <a href="https://ritwick.com" target="_blank">🌐 ritwick.com</a>
+I've been building cool & useful web applications/extensions since more than 15 years now. Over the years I've built multiple **production SaaS products** that are currently being used by thousands of people worldwide. I am passionate about building useful tools & SaaS products people love using 💗 Currently I'm working in Cognizant as a Senior Associate. 🧑‍💻 My personal portfolio website 👉 <a href="https://ritwick.com" target="_blank">ritwick.com</a>
 
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
