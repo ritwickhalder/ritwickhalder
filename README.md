@@ -55,6 +55,7 @@ I've been building cool & useful web applications/extensions since more than 15 
 🧩 **SummaryTube.com** - Summarize Youtube videos with AI on Youtube directly with extension. ![users](https://img.shields.io/badge/6000+%20users-00838F)  <br/>
 &emsp; --> **[SummaryTube Chrome Extension](https://chromewebstore.google.com/detail/summarytube-youtube-video/niofdfdkibigolggppebcpegalegdjfe)**  <br/>
 &emsp; --> **[SummaryTube Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/summarytube-youtube-ai-summary/)** <br/>
+&emsp; --> **[SummaryTube Edge Extension](https://microsoftedge.microsoft.com/addons/detail/flmiodklfiddaogdmfphomfhdngcdmka)**<br/>
 
 🧩 **Centpage.com** - Turn every new chrome tab into a powerful productivity dashboard (internet homepage). ![users](https://img.shields.io/badge/7000+%20users-00838F)  <br/>
 &emsp; --> **[CentPage Chrome Extension](https://chromewebstore.google.com/detail/centpage-%E2%80%93-productivity-n/dalaljappljjfpdmkomolgejlfibccee)** <br/>
@@ -72,6 +73,8 @@ I've been building cool & useful web applications/extensions since more than 15 
 
 🧩 **Edit Webpage** - Chrome Extension to Edit content of any website with 50+ utilites. <br/> 
 &emsp; --> **[EditPage : Google Chrome Extension](https://chromewebstore.google.com/detail/edit-webpage/dcemlmncjcljhjfbijimcamijgfdgieb)** <br/>
+&emsp; --> **[EditPage - Mozilla Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/edit-page-visual-web-editor/)** <br/>
+&emsp; --> **[EditPage - Microsoft Edge Extension](https://microsoftedge.microsoft.com/addons/detail/joobaocbkihjpoijghmpifmnecpdcbaa)**<br/>
 
 ## Other Miscellaneous Legacy Projects
 
