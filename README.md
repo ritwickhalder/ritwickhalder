@@ -55,17 +55,17 @@ I've been building cool & useful web applications/extensions since more than 15 
 🧩 **SummaryTube.com** - Summarize Youtube videos with AI on Youtube directly with extension. ![users](https://img.shields.io/badge/6000+%20users-00838F)  <br/>
 &emsp; --> **[SummaryTube : Google Chrome Extension](https://chromewebstore.google.com/detail/summarytube-youtube-video/niofdfdkibigolggppebcpegalegdjfe)**  <br/>
 &emsp; --> **[SummaryTube : Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/summarytube-youtube-ai-summary/)** <br/>
-&emsp; --> **[SummaryTube : Microsoft Edge Extension](https://microsoftedge.microsoft.com/addons/detail/flmiodklfiddaogdmfphomfhdngcdmka)**<br/>
+&emsp; --> **[SummaryTube : Microsoft Edge Extension](https://microsoftedge.microsoft.com/addons/detail/flmiodklfiddaogdmfphomfhdngcdmka)** <br/>
 
 🧩 **Centpage.com** - Turn every new chrome tab into a powerful productivity dashboard (internet homepage). ![users](https://img.shields.io/badge/7000+%20users-00838F)  <br/>
 &emsp; --> **[CentPage : Google Chrome Extension](https://chromewebstore.google.com/detail/centpage-%E2%80%93-productivity-n/dalaljappljjfpdmkomolgejlfibccee)** <br/>
 &emsp; --> **[CentPage : Mozilla Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/centpage-productivity-new-tab/)** <br/>
-&emsp; --> **[CentPage : Microsoft Edge Extension]** - coming soon (WIP) <br/>
+&emsp; --> **[CentPage : Microsoft Edge Extension](https://microsoftedge.microsoft.com/addons/detail/ppeecjnlmeobdgkgfpneoieehaphikoo)** <br/>
 
-🧩 **Web Developer Tools** - 500+ Web Development Tools and utilities to inspect, outline, edit and audit any page.<br/> 
+🧩 **Web Developer Tools** - 500+ Web Development Tools and utilities to inspect, outline, edit and audit any page. <br/> 
 &emsp; --> **[WDT : Google Chrome Extension](https://chromewebstore.google.com/detail/web-developer-tools/aidnmkaegllaelmceolfojhkfkpbpnhh)** <br/> 
 &emsp; --> **[WDT : Mozilla Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/web-developer-tools-dev/)** <br/>
-&emsp; --> **[WDT : Microsoft Edge Extension](https://microsoftedge.microsoft.com/addons/detail/web-developer-tools/hpjpbihjojicankcjjngcnobfemleplj)**<br/>
+&emsp; --> **[WDT : Microsoft Edge Extension](https://microsoftedge.microsoft.com/addons/detail/web-developer-tools/hpjpbihjojicankcjjngcnobfemleplj)** <br/>
 
 🧩 **Web Archive Viewer** - View the archived version and history of any website. <br/> 
 &emsp; --> **[WAV : Google Chrome Extension](https://chromewebstore.google.com/detail/web-archive-viewer-%E2%80%93-inte/fgfklknfijhflahngajfoagmoilakebp)** <br/> 
@@ -75,12 +75,12 @@ I've been building cool & useful web applications/extensions since more than 15 
 🧩 **Edit Webpage** - Chrome Extension to Edit content of any website with 50+ utilites. <br/> 
 &emsp; --> **[EditPage : Google Chrome Extension](https://chromewebstore.google.com/detail/edit-webpage/dcemlmncjcljhjfbijimcamijgfdgieb)** <br/>
 &emsp; --> **[EditPage : Mozilla Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/edit-page-visual-web-editor/)** <br/>
-&emsp; --> **[EditPage : Microsoft Edge Extension](https://microsoftedge.microsoft.com/addons/detail/joobaocbkihjpoijghmpifmnecpdcbaa)**<br/>
+&emsp; --> **[EditPage : Microsoft Edge Extension](https://microsoftedge.microsoft.com/addons/detail/joobaocbkihjpoijghmpifmnecpdcbaa)** <br/>
 
 🧩 **Web3Lens** - Blockchain Explorer and Web3 Block Explorer <br/> 
-&emsp; --> **[Web3Lens : Google Chrome Extension]** - coming soon (WIP) <br/>
-&emsp; --> **[Web3Lens : Mozilla Firefox Extension]** - coming soon (WIP) <br/>
-&emsp; --> **[Web3Lens : Microsoft Edge Extension]** - coming soon (WIP) <br/>
+&emsp; --> **[Web3Lens : Google Chrome Extension](https://chromewebstore.google.com/detail/blockchain-explorer-web3/bigcbkdjbbmgdicfejljnklmgbpmajlf)** <br/>
+&emsp; --> **[Web3Lens : Mozilla Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/blockchain-explorer-web3-lens/)** <br/>
+&emsp; --> **[Web3Lens : Microsoft Edge Extension](https://microsoftedge.microsoft.com/addons/detail/cadpfffbbdjebfjjibmbbnjbcmajajdd)** <br/>
 
 ## Other Miscellaneous Legacy Projects
 
